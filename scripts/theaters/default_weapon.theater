@@ -6332,7 +6332,7 @@
 			
 			"DetonateDamage"			"150"
 			"DetonatePenetrationRadius"		"40"
-			"DetonateDamageRadius"			"350"
+			"DetonateDamageRadius"			"400"
 			"FuseTime"				"0"
 			"ImpactDetonation"			"1"
 			"ArmDelay"				"0.12"
@@ -6446,9 +6446,9 @@
 			"entity_class"				"remote"
 			"Model"					"models/weapons/w_c4.mdl"
 			
-			"DetonateDamage"			"350"
-			"DetonateDamageRadius"			"1000"
-			"DetonatePenetrationRadius"		"240"
+			"DetonateDamage"			"200"
+			"DetonateDamageRadius"			"750"
+			"DetonatePenetrationRadius"		"200"
 			"FuseTime"				"0.5"
 			
 			"Health"				"50"
