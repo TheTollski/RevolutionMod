@@ -11,6 +11,136 @@
 {
 	"player_templates"
 	{
+		"template_seal"
+		{
+			"team"						"security"
+			"print_name"				"Operator"
+			
+			"models"
+			{
+				"player"				"models/characters/security_light.mdl"
+				"viewmodel_hands"		"models/weapons/v_hands_sec_l.mdl"
+			
+				"bodygroups"
+				{
+					"kit"					"0"
+					"backpack"				"0"
+				}
+			}
+			
+			"allowed_items"
+			{
+				"weapon"				"weapon_anm14"
+				"weapon"				"weapon_at4"
+				"weapon"				"weapon_c4_clicker"
+				"weapon"				"weapon_galil_sar"
+				"weapon"				"weapon_l1a1"
+				"weapon"				"weapon_m14"
+				"weapon"				"weapon_m16a4"
+				"weapon"				"weapon_m18"
+				"weapon"				"weapon_m249"
+				"weapon"				"weapon_m4a1"
+				"weapon"				"weapon_m40a1"
+				"weapon"				"weapon_m590"
+				"weapon"				"weapon_m84"
+				"weapon"				"weapon_mini14"
+				"weapon"				"weapon_mk18"
+				"weapon"				"weapon_mp5"
+				"weapon"				"weapon_ump45"
+				
+				"weapon_upgrade"		"barrel_silencer_sec1"
+				"weapon_upgrade"		"barrel_silencer_sec2"
+				"weapon_upgrade"		"barrel_silencer_pistol"
+				"weapon_upgrade"		"magazine_drum_75rd"
+				"weapon_upgrade"		"optic_scope_mk4"
+				"weapon_upgrade"		"underbarrel_bipod"
+				"weapon_upgrade"		"underbarrel_m203_he"
+				"weapon_upgrade"		"underbarrel_m203_smoke"
+			}
+			
+			"buy_order"
+			{
+				"gear"					"sec_light_armor"
+				"gear"					"sec_chest_carrier"
+				"weapon"				"weapon_kabar"
+				"weapon"				"weapon_makarov"
+				"weapon"				"weapon_m4a1"
+				"weapon_upgrade"		"underbarrel_foregrip_sec1"
+				"weapon"				"weapon_m84"
+				"weapon"				"weapon_m67"
+			}
+			
+			"cost_modifiers"
+			{
+
+			}
+		}
+		
+		"template_terrorist"
+		{
+			"team"					"insurgents"
+			"print_name"			"Insurgent"
+			
+			"models"
+			{
+				"player"				"models/characters/insurgent_light.mdl"
+				"viewmodel_hands"		"models/weapons/v_hands_ins_l.mdl"
+			
+				"bodygroups"
+				{
+					"kit"					"0"
+					"backpack"				"0"
+				}
+			}
+			
+			"allowed_items"
+			{
+				"weapon"				"weapon_c4_ied"
+				"weapon"				"weapon_ak74"
+				"weapon"				"weapon_akm"
+				"weapon"				"weapon_aks74u"
+				"weapon"				"weapon_fal"
+				"weapon"				"weapon_galil"
+				"weapon"				"weapon_m1a1"
+				"weapon"				"weapon_m18"
+				"weapon"				"weapon_m84"
+				"weapon"				"weapon_mp40"
+				"weapon"				"weapon_molotov"
+				"weapon"				"weapon_mosin"
+				"weapon"				"weapon_rpg7"
+				"weapon"				"weapon_rpk"
+				"weapon"				"weapon_sks"
+				"weapon"				"weapon_sterling"
+				"weapon"				"weapon_toz"
+				
+				"weapon_upgrade"		"barrel_silencer_ins1"
+				"weapon_upgrade"		"barrel_silencer_integrated"
+				"weapon_upgrade"		"barrel_silencer_pistol"
+				"weapon_upgrade"		"magazine_drum_75rd"
+				"weapon_upgrade"		"optic_scope_7x"
+				"weapon_upgrade"		"underbarrel_bipod"
+				"weapon_upgrade"		"underbarrel_gp25_he"
+				"weapon_upgrade"		"underbarrel_gp25_smoke"
+			}
+			
+			"buy_order"
+			{
+				"gear"					"ins_light_armor"
+				"gear"					"ins_chest_carrier"
+				"weapon"				"weapon_gurkha"
+				"weapon"				"weapon_makarov"
+				"weapon"				"weapon_ak74"
+				"weapon_upgrade"		"underbarrel_woodgrip"
+				"weapon"				"weapon_m84"
+				"weapon"				"weapon_f1"
+			}
+			
+			"cost_modifiers"
+			{
+				
+			}
+		}
+	
 		// security class templates
 		
 		"template_rifleman_security"
