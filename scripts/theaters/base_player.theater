@@ -33,15 +33,15 @@
 		}
 		"speed"
 		{
-			"frac_side_move"			"0.90"
-			"frac_back_move"			"0.75"
+			"frac_side_move"			"0.95"
+			"frac_back_move"			"0.85"
 			"frac_side_step"			"0.6"
-			"frac_speed_water"			"0.72"
-			"speed_prone"				"54"
-			"speed_crouch_walk"			"46"
-			"speed_crouch_run"			"108"
-			"speed_walk"				"80"
-			"speed_run"					"170"
+			"frac_speed_water"			"0.85"
+			"speed_prone"				"55"
+			"speed_crouch_walk"			"50"
+			"speed_crouch_run"			"115"
+			"speed_walk"				"90"
+			"speed_run"					"210"
 			"speed_sprint"				"288"
 			"AccelerationByWeight"
 			{
