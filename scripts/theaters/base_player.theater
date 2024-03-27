@@ -27,7 +27,7 @@
 		// Weight is in lb
 		"weight"
 		{
-			"frac_jump_force"			"1.1"
+			"frac_jump_force"			"1.15"
 			"min_weight"				"60"
 			"max_weight"				"1000"
 		}
