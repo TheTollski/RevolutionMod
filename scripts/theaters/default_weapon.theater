@@ -3450,7 +3450,7 @@
 					"0"					"0.9"
 				}
 				
-				"recoil_punch_additive_max" 		"10.0"
+				"recoil_punch_additive_max" 		"7.5"
 			}
 			"ballistics"
 			{
@@ -3544,7 +3544,7 @@
 					"0"					"0.80"
 				}
 				
-				"recoil_punch_additive_max" 		"10.0"
+				"recoil_punch_additive_max" 		"7.5"
 			}
 			"ballistics"
 			{

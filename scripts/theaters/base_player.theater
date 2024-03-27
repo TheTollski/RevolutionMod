@@ -29,7 +29,7 @@
 		{
 			"frac_jump_force"			"1.1"
 			"min_weight"				"60"
-			"max_weight"				"640"
+			"max_weight"				"1000"
 		}
 		"speed"
 		{
@@ -46,19 +46,19 @@
 			"AccelerationByWeight"
 			{
 				"60"					"4.20"
-				"640"					"4.10"
+				"1000"					"4.10"
 			}
 			
 			"DecelerationByWeight"
 			{
 				"60"					"300.0"	// these are much higher than acceleration values because it's loss in velocity per second
-				"640"					"450.0"
+				"1000"					"450.0"
 			}
 			
 			"FrictionByWeight"
 			{
 				"60"					"4.20"
-				"640"					"5.00"
+				"1000"					"5.00"
 			}
 		}
 		"turning"
@@ -75,7 +75,7 @@
 			"StaminaMaxByWeight"
 			{
 				"60"					"120"
-				"640"					"40"
+				"1000"					"100"
 			}
 			"stamina_regain"			"2.50"
 			"stamina_sprint_take"			"2.50"
@@ -120,13 +120,13 @@
 			"DistanceByWeight"
 			{
 				"60"					"0.6"
-				"640"					"0.5"
+				"1000"					"0.5"
 			}
 			
 			"SpeedByWeight"
 			{
 				"60"					"240"
-				"640"					"180"
+				"1000"					"180"
 			}
 		}
 		"lean"
