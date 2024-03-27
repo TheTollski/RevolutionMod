@@ -10,7 +10,7 @@
 		// ========================================
 		"weapon_rpg7"
 		{
-			"import"				"weapon_base"
+			"import"				"rocket_launcher_base"
 			"weapon_class"				"launcher"
 			"weapon_type"				"projectile"
 			"print_name"				"#weapon_rpg7"
@@ -85,7 +85,7 @@
 		}
 		"weapon_at4"
 		{
-			"import"				"weapon_base"
+			"import"				"rocket_launcher_base"
 			"weapon_class"				"launcher"
 			"weapon_type"				"projectile"
 			"print_name"				"#weapon_at4"
@@ -160,7 +160,7 @@
 		}
 		"weapon_m203_he"
 		{
-			"import"				"weapon_base"
+			"import"				"grenade_launcher_base"
 			"weapon_class"				"launcher"
 			"weapon_type"				"projectile"
 			"print_name"				"#weapon_m203_he"
@@ -259,7 +259,7 @@
 		}
 		"weapon_m203_smoke"
 		{
-			"import"				"weapon_base"
+			"import"				"grenade_launcher_base"
 			"weapon_class"				"launcher"
 			"weapon_type"				"projectile"
 			"print_name"				"#weapon_m203_smoke"

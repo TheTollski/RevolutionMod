@@ -359,5 +359,31 @@
 				"spread_frac_spray"			"5.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_speed.
 			}
 		}
+		
+		"grenade_launcher_base"
+		{
+			"IsBase"						"1"
+			"import"						"weapon_base"
+			
+			"third_person"
+			{
+				"reticle"				"crosshairs/grenade_launcher"
+				
+				"scope_first_person"		"1" // determines if aiming down the sights will change the camera to 1st person
+			}
+		}
+		
+		"rocket_launcher_base"
+		{
+			"IsBase"						"1"
+			"import"						"weapon_base"
+			
+			"third_person"
+			{
+				"reticle"				"crosshairs/sniper"
+				
+				"scope_first_person"		"1" // determines if aiming down the sights will change the camera to 1st person
+			}
+		}
 	}
 }
