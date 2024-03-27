@@ -1147,7 +1147,7 @@
 		"optic_elcan"
 		{
 			"import"					"base_optic_rail"
-			"upgrade_cost"				"3"
+			"upgrade_cost"				"2"
 			"print_name"				"#weapon_upgrade_elcan"
 			"print_desc"				"#weapon_upgrade_elcan_desc"
 			"team_access"				"security"
@@ -1895,7 +1895,7 @@
 		"optic_po4x24"
 		{
 			"import"					"base_optic_rail"
-			"upgrade_cost"				"3"
+			"upgrade_cost"				"2"
 			"print_name"				"#weapon_upgrade_po4x24"
 			"print_desc"				"#weapon_upgrade_po4x24_desc"
 			"team_access"				"insurgent"
@@ -2992,7 +2992,7 @@
 		"siderail_lasersight_rail"
 		{
 			"import"					"base_lasersight"
-			"upgrade_cost"				"3"
+			"upgrade_cost"				"1"
 			
 			"allowed_weapons"
 			{
@@ -3034,7 +3034,7 @@
 		"siderail_lasersight_band"
 		{
 			"import"					"base_lasersight"
-			"upgrade_cost"				"3"
+			"upgrade_cost"				"1"
 			
 			"allowed_weapons"
 			{
@@ -3084,7 +3084,7 @@
 		"siderail_lasersight_shotgun_sec"
 		{
 			"import"					"base_lasersight"
-			"upgrade_cost"				"3"
+			"upgrade_cost"				"1"
 			
 			"allowed_weapons"
 			{
@@ -3103,7 +3103,7 @@
 		"siderail_lasersight_shotgun_ins"
 		{
 			"import"					"base_lasersight"
-			"upgrade_cost"				"4"
+			"upgrade_cost"				"1"
 			
 			"allowed_weapons"
 			{
@@ -3122,7 +3122,7 @@
 		"siderail_lasersight_pistol"
 		{
 			"import"					"base_lasersight_pistol"
-			"upgrade_cost"				"3"
+			"upgrade_cost"				"1"
 			
 			"allowed_weapons"
 			{
