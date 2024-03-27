@@ -249,6 +249,11 @@
 				"BulletWhizMaxVolume"			"1"
 				"BulletWhizMinVolume"			"0.5"
 			}
+			"third_person"
+			{
+				"reticle"				"crosshairs/simple"
+				"scope_first_person"		"1"
+			}
 		}
 		
 		"pistol_base"
