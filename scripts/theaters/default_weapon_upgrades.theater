@@ -3350,7 +3350,7 @@
 		"underbarrel_m203_he"
 		{
 			"import"				"underbarrel_m203_base"
-			"upgrade_cost"				"4"
+			"upgrade_cost"				"6"
 			"print_name"				"#weapon_m203_he"
 			"print_desc"				"#weapon_m203_he_desc"
 			"attach_weapon"				"weapon_m203_he"
@@ -3456,7 +3456,7 @@
 		"underbarrel_gp25_he"
 		{
 			"import"				"underbarrel_gp25_base"
-			"upgrade_cost"				"4"
+			"upgrade_cost"				"6"
 			"print_name"				"#weapon_gp25_he"
 			"print_desc"				"#weapon_m203_he_desc"
 			"attach_weapon"				"weapon_gp25_he"

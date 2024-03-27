@@ -3,10 +3,6 @@
 	"$basetexture"	"crosshairs/rifle"
 	"$translucent"	"1"
 
-	"$reticleDiagonal"			"0"
-	"$reticleScaleFrac"			"1.0"
-	"$reticleExpandFrac"		"0.5"
-
 	"$reticleCenter"			"0 0 200 200"
 	"$reticleTeammateCenter"	"200 0 200 200"
 	"$reticleEnemyCenter"		"0 200 200 200"

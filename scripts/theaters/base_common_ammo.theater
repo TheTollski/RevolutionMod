@@ -734,8 +734,8 @@
 			"DamageHitgroups"
 			{
 				"HITGROUP_HEAD"				"1.00"
-				"HITGROUP_CHEST"			"0.60"
-				"HITGROUP_STOMACH"			"0.60"
+				"HITGROUP_CHEST"			"1.00"
+				"HITGROUP_STOMACH"			"1.00"
 				"HITGROUP_LEFTARM"			"1.00"
 				"HITGROUP_RIGHTARM"			"1.00"
 				"HITGROUP_LEFTLEG"			"1.00"

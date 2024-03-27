@@ -114,7 +114,7 @@
 		}
 		"slide"
 		{
-			"min_sprint_time"			"1.2"
+			"min_sprint_time"			"999" // effectively disabled sliding
 			"post_sprint_grace"			"0.08"
 			
 			"DistanceByWeight"
