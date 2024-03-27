@@ -5,16 +5,16 @@
 		"sec_light_armor"
 		{
 			"print_name"				"#gear_light_armor"
-			"print_desc"				"#gear_light_armor_desc"
+			"print_desc"				"Reduces damage to torso by 15%."
 			"gear_slot"					"armor"
-			"gear_cost"					"0"
+			"gear_cost"					"1"
 			"gear_weight"				"64"	// 25 (2.5kg) + 75 encumbrance
 			
 			"DamageHitgroups"
 			{
 				"HITGROUP_HEAD"			"1.00"
-				"HITGROUP_CHEST"		"0.40"
-				"HITGROUP_STOMACH"		"0.40"
+				"HITGROUP_CHEST"		"0.85"
+				"HITGROUP_STOMACH"		"0.85"
 				"HITGROUP_LEFTARM"		"1.00"
 				"HITGROUP_RIGHTARM"		"1.00"
 				"HITGROUP_LEFTLEG"		"1.00"
@@ -29,16 +29,16 @@
 		"ins_light_armor"
 		{
 			"print_name"				"#gear_light_armor"
-			"print_desc"				"#gear_light_armor_desc"
+			"print_desc"				"Reduces damage to torso by 15%."
 			"gear_slot"				"armor"
-			"gear_cost"				"0"
+			"gear_cost"				"1"
 			"gear_weight"				"64"	// 25 (2.5kg) + 75 encumbrance
 			
 			"DamageHitgroups"
 			{
 				"HITGROUP_HEAD"				"1.00"
-				"HITGROUP_CHEST"			"0.40"
-				"HITGROUP_STOMACH"			"0.40"
+				"HITGROUP_CHEST"			"0.85"
+				"HITGROUP_STOMACH"			"0.85"
 				"HITGROUP_LEFTARM"			"1.00"
 				"HITGROUP_RIGHTARM"			"1.00"
 				"HITGROUP_LEFTLEG"			"1.00"
@@ -54,7 +54,7 @@
 		"sec_heavy_armor"
 		{
 			"print_name"				"#gear_heavy_armor"
-			"print_desc"				"#gear_heavy_armor_desc"
+			"print_desc"				"Reduces damage to torso by 30%."
 			"gear_slot"				"armor"
 			"gear_cost"				"2"
 			"gear_weight"				"128"	// 75 (7.5kg) + 250 encumbrance
@@ -62,8 +62,8 @@
 			"DamageHitgroups"
 			{
 				"HITGROUP_HEAD"				"1.00"	// death
-				"HITGROUP_CHEST"			"0.10"
-				"HITGROUP_STOMACH"			"0.10"
+				"HITGROUP_CHEST"			"0.70"
+				"HITGROUP_STOMACH"			"0.70"
 				"HITGROUP_LEFTARM"			"1.00"
 				"HITGROUP_RIGHTARM"			"1.00"
 				"HITGROUP_LEFTLEG"			"1.00"
@@ -78,7 +78,7 @@
 		"ins_heavy_armor"
 		{
 			"print_name"				"#gear_heavy_armor"
-			"print_desc"				"#gear_heavy_armor_desc"
+			"print_desc"				"Reduces damage to torso by 30%."
 			"gear_slot"				"armor"
 			"gear_cost"				"2"
 			"gear_weight"				"128"	// 75 (7.5kg) + 250 encumbrance
@@ -86,8 +86,8 @@
 			"DamageHitgroups"
 			{
 				"HITGROUP_HEAD"				"1.00"	// death
-				"HITGROUP_CHEST"			"0.10"
-				"HITGROUP_STOMACH"			"0.10"
+				"HITGROUP_CHEST"			"0.70"
+				"HITGROUP_STOMACH"			"0.70"
 				"HITGROUP_LEFTARM"			"1.00"
 				"HITGROUP_RIGHTARM"			"1.00"
 				"HITGROUP_LEFTLEG"			"1.00"
