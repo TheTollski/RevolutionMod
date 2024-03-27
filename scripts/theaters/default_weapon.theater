@@ -1340,7 +1340,7 @@
 		
 		"weapon_m16a4"
 		{
-			"import"				"ballistic_base"
+			"import"				"rifle_base"
 			"weapon_class"				"rifle_controlled_fire"
 			"print_name"				"#weapon_m16"
 			"print_desc"				"#weapon_m16_desc"
@@ -1453,7 +1453,7 @@
 		
 		"weapon_mk18"
 		{
-			"import"					"ballistic_base"
+			"import"					"rifle_base"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_mk18"
 			"print_desc"				"#weapon_mk18_desc"
@@ -1564,7 +1564,7 @@
 		
 		"weapon_m4a1"
 		{
-			"import"				"ballistic_base"
+			"import"				"rifle_base"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_m4a1"
 			"print_desc"				"#weapon_m4a1_desc"
@@ -1685,7 +1685,7 @@
 		
 		"weapon_galil"
 		{
-			"import"					"ballistic_base"
+			"import"					"rifle_base"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_galil"
 			"print_desc"				"#weapon_galil_desc"
@@ -1795,7 +1795,7 @@
 		
 		"weapon_galil_sar"
 		{
-			"import"					"ballistic_base"
+			"import"					"rifle_base"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_galil_sar"
 			"print_desc"				"#weapon_galil_sar_desc"
@@ -1905,7 +1905,7 @@
 		
 		"weapon_akm"
 		{
-			"import"				"ballistic_base"
+			"import"				"rifle_base"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_akm"
 			"print_desc"				"#weapon_akm_desc"
@@ -2012,7 +2012,7 @@
 		
 		"weapon_ak74"
 		{
-			"import"				"ballistic_base"
+			"import"				"rifle_base"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_ak74"
 			"print_desc"				"#weapon_ak74_desc"
@@ -2116,7 +2116,7 @@
 		
 		"weapon_fal"
 		{
-			"import"				"ballistic_base"
+			"import"				"rifle_base"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_fal"
 			"print_desc"				"#weapon_fal_desc"
@@ -2221,7 +2221,7 @@
 		}
 		"weapon_l1a1"
 		{
-			"import"				"ballistic_base"
+			"import"				"rifle_base"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_l1a1"
 			"print_desc"				"#weapon_l1a1_desc"
@@ -2330,7 +2330,7 @@
 		
 		"weapon_mini14"
 		{
-			"import"				"ballistic_base"
+			"import"				"rifle_base"
 			"weapon_class"				"rifle_controlled_fire"
 			"print_name"				"#weapon_mini14"
 			"print_desc"				"#weapon_mini14_desc"
@@ -2413,7 +2413,7 @@
 		
 		"weapon_m14"
 		{
-			"import"				"ballistic_base"
+			"import"				"rifle_base"
 			"weapon_class"				"rifle_controlled_fire"
 			"print_name"				"#weapon_m14"
 			"print_desc"				"#weapon_m14_desc"
@@ -2501,7 +2501,7 @@
 		
 		"weapon_m1a1"
 		{
-			"import"					"ballistic_base"
+			"import"					"rifle_base"
 			"weapon_class"				"rifle_controlled_fire"
 			"print_name"				"#weapon_m1a1"
 			"print_desc"				"#weapon_m1a1_desc"
@@ -2611,7 +2611,7 @@
 		
 		"weapon_sks"
 		{
-			"import"				"ballistic_base"
+			"import"				"rifle_base"
 			"weapon_class"				"rifle_controlled_fire"
 			"print_name"				"#weapon_sks"
 			"print_desc"				"#weapon_sks_desc"
@@ -2698,7 +2698,7 @@
 		
 		"weapon_mp5"
 		{
-			"import"				"ballistic_base"
+			"import"				"rifle_base"
 			"weapon_class"				"smg"
 			"print_name"				"#weapon_mp5"
 			"print_desc"				"#weapon_mp5_desc"
@@ -2784,7 +2784,7 @@
 		
 		"weapon_mp40"
 		{
-			"import"				"ballistic_base"
+			"import"				"rifle_base"
 			"weapon_class"				"smg"
 			"print_name"				"#weapon_mp40"
 			"print_desc"				"#weapon_mp40_desc"
@@ -2871,7 +2871,7 @@
 
 		"weapon_sterling"
 		{
-			"import"					"ballistic_base"
+			"import"					"rifle_base"
 			"weapon_class"				"smg"
 			"view_model"				"models/weapons/v_sterling.mdl"
 			"world_model"				"models/weapons/w_sterling.mdl"
@@ -2974,7 +2974,7 @@
 		
 		"weapon_ump45"
 		{
-			"import"				"ballistic_base"
+			"import"				"rifle_base"
 			"weapon_class"				"smg"
 			"print_name"				"#weapon_ump45"
 			"print_desc"				"#weapon_ump45_desc"
@@ -3060,7 +3060,7 @@
 		
 		"weapon_aks74u"
 		{
-			"import"				"ballistic_base"
+			"import"				"rifle_base"
 			"weapon_class"				"smg"
 			"print_name"				"#weapon_aks74u"
 			"print_desc"				"#weapon_aks74u_desc"
@@ -3166,7 +3166,7 @@
 		
 		"weapon_m590"
 		{
-			"import"				"ballistic_base"
+			"import"				"shotgun_base"
 			"weapon_class"				"shotgun"
 			"weapon_cost"				"1"
 			"print_name"				"#weapon_m590"
@@ -3255,7 +3255,7 @@
 		
 		"weapon_toz"
 		{
-			"import"				"ballistic_base"
+			"import"				"shotgun_base"
 			"weapon_class"				"shotgun"
 			"weapon_cost"				"1"
 			"print_name"				"#weapon_toz"
@@ -3349,7 +3349,7 @@
 		
 		"weapon_m249"
 		{
-			"import"				"ballistic_base"
+			"import"				"rifle_base"
 			"weapon_class"				"lmg"
 			"weapon_cost"				"4"
 			"print_name"				"#weapon_m249"
@@ -3458,7 +3458,7 @@
 		
 		"weapon_rpk"
 		{
-			"import"				"ballistic_base"
+			"import"				"rifle_base"
 			"view_model"				"models/weapons/v_rpk.mdl"
 			"world_model"				"models/weapons/w_rpk.mdl"
 			"weapon_class"				"lmg"
@@ -3571,7 +3571,7 @@
 		
 		"weapon_m40a1"
 		{
-			"import"				"ballistic_base"
+			"import"				"sniper_base"
 			"weapon_class"				"sniper_rifle"
 			"weapon_cost"				"1"
 			"print_name"				"#weapon_m40a1"
@@ -3666,7 +3666,7 @@
 		
 		"weapon_mosin"
 		{
-			"import"				"ballistic_base"
+			"import"				"sniper_base"
 			"weapon_class"				"sniper_rifle"
 			"weapon_cost"				"1"
 			"print_name"				"#weapon_mosin"

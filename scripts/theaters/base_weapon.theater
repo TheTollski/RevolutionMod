@@ -249,9 +249,9 @@
 				"BulletWhizMaxVolume"			"1"
 				"BulletWhizMinVolume"			"0.5"
 			}
+			
 			"third_person"
 			{
-				"reticle"				"crosshairs/t_capital"
 				"scope_first_person"		"1"
 			}
 		}
@@ -272,6 +272,7 @@
 				"position"				"20 3 2"
 				"angle"					"0 90 0"
 			}
+			
 			"third_person"
 			{
 				"reticle"				"crosshairs/circle_small"
@@ -306,6 +307,39 @@
 			{
 				"freeaim_distance"			"0"
 				"freeaim_screenratio"			"0"	// if this is 0 and freeaim_distance is set, that will just mean sway gets applied
+			}
+		}
+		
+		"rifle_base"
+		{
+			"IsBase"						"1"
+			"import"						"ballistic_base"
+			
+			"third_person"
+			{
+				"reticle"				"crosshairs/t_capital"
+			}
+		}
+		
+		"shotgun_base"
+		{
+			"IsBase"						"1"
+			"import"						"ballistic_base"
+			
+			"third_person"
+			{
+				"reticle"				"crosshairs/circle"
+			}
+		}
+		
+		"sniper_base"
+		{
+			"IsBase"						"1"
+			"import"						"ballistic_base"
+			
+			"third_person"
+			{
+				"reticle"				"crosshairs/dot"
 			}
 		}
 	}
