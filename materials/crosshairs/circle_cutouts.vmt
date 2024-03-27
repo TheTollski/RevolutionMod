@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture"	"crosshairs/t_capital"
+	"$basetexture"	"crosshairs/circle_cutouts"
 	"$translucent"	"1"
 
 	"$reticleDiagonal"			"0"

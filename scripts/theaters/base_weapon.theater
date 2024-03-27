@@ -275,7 +275,7 @@
 			
 			"third_person"
 			{
-				"reticle"				"crosshairs/circle_small"
+				"reticle"				"crosshairs/circle_cutouts_3bars"
 			}
 		}
 		
@@ -317,7 +317,7 @@
 			
 			"third_person"
 			{
-				"reticle"				"crosshairs/t_capital"
+				"reticle"				"crosshairs/circle_cutouts_4bars"
 			}
 		}
 		
@@ -328,7 +328,7 @@
 			
 			"third_person"
 			{
-				"reticle"				"crosshairs/circle"
+				"reticle"				"crosshairs/circle_cutouts"
 			}
 		}
 		
