@@ -82,11 +82,11 @@
 		}
 		"grenade_m203_he"
 		{
-			"carry"					"3"
+			"carry"					"1"
 		}
 		"grenade_gp25_he"
 		{
-			"carry"					"3"
+			"carry"					"1"
 		}
 		"grenade_m203_smoke"
 		{
