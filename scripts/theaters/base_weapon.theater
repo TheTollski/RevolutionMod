@@ -275,7 +275,6 @@
 			"third_person"
 			{
 				"reticle"				"crosshairs/pistol"
-				"scope_first_person"		"0"
 			}
 		}
 		
