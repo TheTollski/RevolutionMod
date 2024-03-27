@@ -275,7 +275,7 @@
 			
 			"third_person"
 			{
-				"reticle"				"crosshairs/circle_cutouts_3bars"
+				"reticle"				"crosshairs/pistol"
 			}
 		}
 		
@@ -317,7 +317,7 @@
 			
 			"third_person"
 			{
-				"reticle"				"crosshairs/circle_cutouts_4bars"
+				"reticle"				"crosshairs/rifle"
 			}
 		}
 		
@@ -328,7 +328,7 @@
 			
 			"third_person"
 			{
-				"reticle"				"crosshairs/circle_cutouts"
+				"reticle"				"crosshairs/shotgun"
 			}
 		}
 		
@@ -339,7 +339,7 @@
 			
 			"third_person"
 			{
-				"reticle"				"crosshairs/dot"
+				"reticle"				"crosshairs/sniper"
 			}
 		}
 	}

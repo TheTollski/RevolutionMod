@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture"	"crosshairs/circle"
+	"$basetexture"	"crosshairs/pistol"
 	"$translucent"	"1"
 
 	"$reticleDiagonal"			"0"
