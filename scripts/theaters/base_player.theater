@@ -166,8 +166,8 @@
 				"HITGROUP_HEAD"				"3"	// death
 				"HITGROUP_CHEST"			"1.00"
 				"HITGROUP_STOMACH"			"0.9"
-				"HITGROUP_LEFTARM"			"0.5"
-				"HITGROUP_RIGHTARM"			"0.5"
+				"HITGROUP_LEFTARM"			"0.7"
+				"HITGROUP_RIGHTARM"			"0.7"
 				"HITGROUP_LEFTLEG"			"0.5"
 				"HITGROUP_RIGHTLEG"			"0.5"
 			}

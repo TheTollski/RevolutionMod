@@ -2726,7 +2726,7 @@
 		
 		"weapon_mp5"
 		{
-			"import"				"rifle_base"
+			"import"				"smg_base"
 			"weapon_class"				"smg"
 			"print_name"				"#weapon_mp5"
 			"print_desc"				"#weapon_mp5_desc"
@@ -2814,7 +2814,7 @@
 		
 		"weapon_mp40"
 		{
-			"import"				"rifle_base"
+			"import"				"smg_base"
 			"weapon_class"				"smg"
 			"print_name"				"#weapon_mp40"
 			"print_desc"				"#weapon_mp40_desc"
@@ -3383,7 +3383,7 @@
 		
 		"weapon_m249"
 		{
-			"import"				"rifle_base"
+			"import"				"lmg_base"
 			"weapon_class"				"lmg"
 			"weapon_cost"				"4"
 			"print_name"				"#weapon_m249"
@@ -3494,7 +3494,7 @@
 		
 		"weapon_rpk"
 		{
-			"import"				"rifle_base"
+			"import"				"lmg_base"
 			"view_model"				"models/weapons/v_rpk.mdl"
 			"world_model"				"models/weapons/w_rpk.mdl"
 			"weapon_class"				"lmg"
