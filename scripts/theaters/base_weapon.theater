@@ -386,7 +386,7 @@
 			
 			"third_person"
 			{
-				"reticle"				"crosshairs/sniper"
+				"reticle"				"crosshairs/rocket_launcher"
 				
 				"scope_first_person"		"1" // determines if aiming down the sights will change the camera to 1st person
 			}
