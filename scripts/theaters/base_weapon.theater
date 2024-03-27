@@ -272,6 +272,11 @@
 				"position"				"20 3 2"
 				"angle"					"0 90 0"
 			}
+			"third_person"
+			{
+				"reticle"				"crosshairs/pistol"
+				"scope_first_person"		"0"
+			}
 		}
 		
 		"weapon_grenade_base"
