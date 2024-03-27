@@ -3686,7 +3686,7 @@
 			}
 			"ammo_clip"
 			{
-				"ammo_type"				"762x51mm"
+				"ammo_type"				"762x51_m40a1"
 				"clip_max"				"60"
 				"clip_max_rounds"			"5"
 				"clip_default"				"15"
@@ -3765,7 +3765,7 @@
 			}
 			"ammo_clip"
 			{
-				"ammo_type"				"762x54mm"
+				"ammo_type"				"762x54_mosin"
 				"clip_max"				"60"
 				"clip_max_rounds"			"5"
 				"clip_default"				"15"

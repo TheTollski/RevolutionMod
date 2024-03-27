@@ -652,6 +652,24 @@
 			}
 		}
 		
+		"762x51_sniper"
+		{
+			"import"				"default"
+			"SuppressionIncrement"			"90"
+			"brass_model"				"models/weapons/shells/762x51.mdl"
+			"Damage"
+			{
+				"10"					"160"
+				"3940"					"145"
+				"20000"					"100"
+			}
+			"PenetrationPower"
+			{
+				"10"					"1100"
+				"20000"					"600"
+			}
+		}
+		
 		"762x51_tracer"
 		{
 			"import"				"762x51"
@@ -701,9 +719,9 @@
 			}
 		}
 		
-		"762x54"	// 181gr 786m/s  3,614J
+		"762x54_sniper"	// 181gr 786m/s  3,614J
 		{
-			"import"				"762x51"
+			"import"				"762x51_sniper"
 			"brass_model"			"models/weapons/shells/762x54.mdl"
 		}
 		
@@ -1180,9 +1198,9 @@
 		// ========================================
 		// m40a1
 		// ========================================
-		"762x51mm"
+		"762x51_m40a1"
 		{
-			"import"				"762x51"
+			"import"				"762x51_sniper"
 			"carry"					"120"
 			"flags_clear"				"AMMO_USE_MAGAZINES"
 		}
@@ -1196,9 +1214,9 @@
 		// ========================================
 		// mosin
 		// ========================================
-		"762x54mm"
+		"762x54_mosin"
 		{
-			"import"				"762x54"
+			"import"				"762x54_sniper"
 			"carry"					"120"
 			"flags_clear"				"AMMO_USE_MAGAZINES"
 		}
