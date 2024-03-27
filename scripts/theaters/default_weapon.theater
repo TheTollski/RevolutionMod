@@ -3834,7 +3834,7 @@
 			"Model"					"models/weapons/w_m67.mdl"
 			"DetonateDamage"			"160"
 			"DetonatePenetrationRadius"		"40"
-			"DetonateDamageRadius"			"750"
+			"DetonateDamageRadius"			"650"
 			"FuseTime"				"4"
 			"RocketStartSpeed"			"2000"
 			
@@ -3861,7 +3861,7 @@
 			"Model"					"models/weapons/w_f1.mdl"
 			"DetonateDamage"			"160"
 			"DetonatePenetrationRadius"		"40"
-			"DetonateDamageRadius"			"750"
+			"DetonateDamageRadius"			"650"
 			"FuseTime"				"4"
 			"RocketStartSpeed"			"2000"
 			
@@ -4019,7 +4019,7 @@
 			
 			"DetonateDamage"			"170"
 			"DetonatePenetrationRadius"		"40"
-			"DetonateDamageRadius"			"500"
+			"DetonateDamageRadius"			"400"
 			"FuseTime"				"0"
 			"ImpactDetonation"			"1"
 			"ArmDelay"				"0.12"
@@ -4081,7 +4081,7 @@
 			"entity_class"				"rocket"
 			"Model"					"models/weapons/w_at4_projectile.mdl"
 			"DetonateDamage"			"230"
-			"DetonateDamageRadius"			"800"
+			"DetonateDamageRadius"			"700"
 			"DetonatePenetrationRadius"		"200"
 			"RocketTopSpeed"			"3500"	// you cannot go faster than 3500
 			"RocketStartSpeed"			"200"
@@ -4106,7 +4106,7 @@
 			"entity_class"				"rocket"
 			"Model"					"models/weapons/w_rpg7_projectile.mdl"
 			"DetonateDamage"			"230"
-			"DetonateDamageRadius"			"800"
+			"DetonateDamageRadius"			"700"
 			"DetonatePenetrationRadius"		"200"
 			"RocketTopSpeed"			"3500"	// you cannot go faster than 3500
 			"RocketStartSpeed"			"200"
