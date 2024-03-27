@@ -1458,7 +1458,7 @@
 			"import"					"rifle_base"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_mk18"
-			"print_desc"				"#weapon_mk18_desc"
+			"print_desc"				"Base DMG: 110 (0m), 80 (11m), 46 (254m) | RPM: 740 | Mag Cap: 30"
 			"view_model"				"models/weapons/v_mk18.mdl"
 			"world_model"				"models/weapons/w_mk18.mdl"
 			"rounds_per_minute"			"740"
@@ -1466,7 +1466,7 @@
 			"act_table"					"shortrifle"
 			"weapon_abilities"			"ironsight"
 			"weapon_weight"				"130"	// (2.8kg[weapon] + (0.4kg[ammo] * (1+8)[mags]) )*10[kg->hg for int]  +16[encumbrance]
-			"weapon_cost"				"3"
+			"weapon_cost"				"2"
 			"barrel_length"				"20"
 			
 			"viewmodel_attachments"
@@ -1538,6 +1538,8 @@
 				"recoil_shot_reset_time"		"0.5"	// Time delay for resetting the shots fired counter for the above (default = 0.3)
 				"recoil_shot_max_shots"			"8"	// Max number of shots to account for for the additional rest (default = 5)
 				"recoil_punch_additive_factor"		"0.85"	// How much of the view punch from the previous shot(s) get added to any additional shot fired.
+				
+				"recoil_punch_additive_max" 		"2.5"
 			}
 			"ballistics"
 			{
@@ -1692,7 +1694,7 @@
 			"import"					"rifle_base"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_galil"
-			"print_desc"				"#weapon_galil_desc"
+			"print_desc"				"Base DMG: 110 (0m), 80 (11m), 46 (254m) | RPM: 650 | Mag Cap: 30"
 			"view_model"				"models/weapons/v_galil.mdl"
 			"world_model"				"models/weapons/w_galil.mdl"
 			"rounds_per_minute"			"650"
@@ -1771,6 +1773,8 @@
 				"recoil_shot_reset_time"			"0.5"	// Time delay for resetting the shots fired counter for the above (default = 0.3)
 				"recoil_shot_max_shots"				"8"		// Max number of shots to account for for the additional rest (default = 5)
 				"recoil_punch_additive_factor"		"0.85"	// How much of the view punch from the previous shot(s) get added to any additional shot fired.
+				
+				"recoil_punch_additive_max" 		"2.5"
 			}
 			"ballistics"
 			{
@@ -1802,7 +1806,7 @@
 			"import"					"rifle_base"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_galil_sar"
-			"print_desc"				"#weapon_galil_sar_desc"
+			"print_desc"				"Base DMG: 110 (0m), 80 (11m), 46 (254m) | RPM: 650 | Mag Cap: 30"
 			"view_model"				"models/weapons/v_galil_sar.mdl"
 			"world_model"				"models/weapons/w_galil_sar.mdl"
 			"rounds_per_minute"			"650"
@@ -1881,6 +1885,8 @@
 				"recoil_shot_reset_time"			"0.5"	// Time delay for resetting the shots fired counter for the above (default = 0.3)
 				"recoil_shot_max_shots"				"8"		// Max number of shots to account for for the additional rest (default = 5)
 				"recoil_punch_additive_factor"		"0.85"	// How much of the view punch from the previous shot(s) get added to any additional shot fired.
+				
+				"recoil_punch_additive_max" 		"2.5"
 			}
 			"ballistics"
 			{
@@ -2021,7 +2027,7 @@
 			"import"				"rifle_base"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_ak74"
-			"print_desc"				"#weapon_ak74_desc"
+			"print_desc"				"Base DMG: 82 (0m), 50 (203m) | RPM: 650 | Mag Cap: 30"
 			"view_model"				"models/weapons/v_ak74.mdl"
 			"world_model"				"models/weapons/w_ak74.mdl"
 			"rounds_per_minute"			"650"
@@ -2094,6 +2100,8 @@
 				"recoil_shot_reset_time"		"0.5"	// Time delay for resetting the shots fired counter for the above (default = 0.3)
 				"recoil_shot_max_shots"			"6"	// Max number of shots to account for for the additional rest (default = 5)
 				"recoil_punch_additive_factor"		"0.85"	// How much of the view punch from the previous shot(s) get added to any additional shot fired.
+				
+				"recoil_punch_additive_max" 		"2.5"
 			}
 			"ballistics"
 			{
