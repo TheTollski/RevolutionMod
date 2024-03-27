@@ -8,24 +8,7 @@
 	"$reticleExpandFrac"		"0.5"
 
 	"$reticleCenter"			"0 0 200 200"
-
-	"$reticleObstruct"			"504 504 8 8"
-
-	"$reticleEmptyCenter"		"121 121 270 270"
-	"$reticleEmptyTop"			"254 421 4 28"
-	"$reticleEmptyBottom"		"254 453 4 28"
-	"$reticleEmptyLeft"			"226 449 28 4"
-	"$reticleEmptyRight"		"258 449 28 4"
-
-	"$reticleEnemyCenter"		"121 121 270 270"
-	"$reticleEnemyTop"			"449 226 4 28"
-	"$reticleEnemyBottom"		"449 258 4 28"
-	"$reticleEnemyLeft"			"421 254 28 4"
-	"$reticleEnemyRight"		"453 254 28 4"
-
-	"$reticleTeammateCenter"	"121 121 270 270"
-	"$reticleTeammateTop"			"59 226 4 28"
-	"$reticleTeammateBottom"	"59 258 4 28"
-	"$reticleTeammateLeft"		"31 254 28 4"
-	"$reticleTeammateRight"		"63 254 28 4"
+	"$reticleTeammateCenter"	"200 0 200 200"
+	"$reticleEnemyCenter"		"0 200 200 200"
+	"$reticleObstruct"			"502 502 10 10"
 }
