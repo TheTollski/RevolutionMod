@@ -26,7 +26,7 @@
 		"base_ammo_slugs"
 		{
 			"upgrade_slot"				"ammo"
-			"upgrade_cost"				"2"
+			"upgrade_cost"				"3"
 			"print_name"				"#weapon_upgrade_slugs"
 			"print_desc"				"#weapon_upgrade_slugs_desc"
 			"ammo_type_override"			"slugs"

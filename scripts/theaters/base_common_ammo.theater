@@ -765,9 +765,9 @@
 			"brass_model"				"models/weapons/shells/12guage.mdl"
 			"Damage"
 			{
-				"800"					"180"
-				"3375"					"90"
-				"6750"					"40"
+				"393"					"180"
+				"1574"					"90"
+				"3937"					"40"
 			}
 			"PenetrationPower"
 			{
