@@ -33,8 +33,8 @@
 		}
 		"speed"
 		{
-			"frac_side_move"			"0.60"
-			"frac_back_move"			"0.65"
+			"frac_side_move"			"0.90"
+			"frac_back_move"			"0.75"
 			"frac_side_step"			"0.6"
 			"frac_speed_water"			"0.72"
 			"speed_prone"				"54"
