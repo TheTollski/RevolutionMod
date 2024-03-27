@@ -228,6 +228,10 @@
 				"allow_lean"				"1"
 				"allow_jump"				"1"
 				"allow_sway"				"1"
+				"allow_jump_shoot"			"1"
+				"allow_reload_crawl"		"0"
+				"allow_reload_jump"			"1"
+				"allow_reload_sprint"		"1"
 			}
 			"fov"
 			{
