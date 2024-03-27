@@ -263,8 +263,8 @@
 				
 				"scope_first_person"		"1" // determines if aiming down the sights will change the camera to 1st person
 				
-				"spread_frac_speed"			"1.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_spray.
-				"spread_frac_spray"			"1.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_speed.
+				"spread_frac_speed"			"2.5" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_spray.
+				"spread_frac_spray"			"0.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_speed.
 			}
 		}
 		
@@ -342,7 +342,7 @@
 			{
 				"reticle"				"crosshairs/shotgun"
 				
-				"spread_frac_speed"			"0.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_spray.
+				"spread_frac_speed"			"1.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_spray.
 				"spread_frac_spray"			"0.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_speed.
 			}
 		}
@@ -356,8 +356,8 @@
 			{
 				"reticle"				"crosshairs/sniper"
 				
-				"spread_frac_speed"			"5.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_spray.
-				"spread_frac_spray"			"5.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_speed.
+				"spread_frac_speed"			"10.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_spray.
+				"spread_frac_spray"			"0.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_speed.
 			}
 		}
 		
