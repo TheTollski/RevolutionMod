@@ -1657,6 +1657,8 @@
 				"recoil_shot_reset_time"		"0.5"	// Time delay for resetting the shots fired counter for the above (default = 0.3)
 				"recoil_shot_max_shots"			"8"	// Max number of shots to account for for the additional rest (default = 5)
 				"recoil_punch_additive_factor"		"0.85"	// How much of the view punch from the previous shot(s) get added to any additional shot fired.
+				
+				"recoil_punch_additive_max" 		"2.5"
 			}
 			"ballistics"
 			{
@@ -1982,6 +1984,8 @@
 				"recoil_shot_reset_time"		"0.5"	// Time delay for resetting the shots fired counter for the above (default = 0.3)
 				"recoil_shot_max_shots"			"6"	// Max number of shots to account for for the additional rest (default = 5)
 				"recoil_punch_additive_factor"		"0.85"	// How much of the view punch from the previous shot(s) get added to any additional shot fired.
+				
+				"recoil_punch_additive_max" 		"2.5"
 			}
 			"ballistics"
 			{
@@ -2194,6 +2198,8 @@
 				{
 					"0"					"0.36"
 				}
+				
+				"recoil_punch_additive_max" 		"2.5"
 			}
 			"ballistics"
 			{
@@ -2473,6 +2479,8 @@
 				{
 					"0"					"0.4"
 				}
+				
+				"recoil_punch_additive_max" 		"2.5"
 			}
 			"ballistics"
 			{
@@ -2756,6 +2764,8 @@
 				"recoil_shot_reset_time"		"0.5"	// Time delay for resetting the shots fired counter for the above (default = 0.3)
 				"recoil_shot_max_shots"			"5"	// Max number of shots to account for for the additional rest (default = 5)
 				"recoil_punch_additive_factor"		"0.82"	// How much of the view punch from the previous shot(s) get added to any additional shot fired.
+				
+				"recoil_punch_additive_max" 		"2.5"
 			}
 			"ballistics"
 			{
@@ -3134,6 +3144,8 @@
 				"recoil_shot_reset_time"		"0.5"	// Time delay for resetting the shots fired counter for the above (default = 0.3)
 				"recoil_shot_max_shots"			"5"	// Max number of shots to account for for the additional rest (default = 5)
 				"recoil_punch_additive_factor"		"0.80"	// How much of the view punch from the previous shot(s) get added to any additional shot fired.
+				
+				"recoil_punch_additive_max" 		"2.5"
 			}
 			"ballistics"
 			{
@@ -3425,6 +3437,8 @@
 				{
 					"0"					"0.9"
 				}
+				
+				"recoil_punch_additive_max" 		"5.0"
 			}
 			"ballistics"
 			{
@@ -3517,6 +3531,8 @@
 				{
 					"0"					"0.80"
 				}
+				
+				"recoil_punch_additive_max" 		"5.0"
 			}
 			"ballistics"
 			{
