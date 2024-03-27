@@ -251,7 +251,7 @@
 			}
 			"third_person"
 			{
-				"reticle"				"crosshairs/simple"
+				"reticle"				"crosshairs/circle"
 				"scope_first_person"		"1"
 			}
 		}
