@@ -2132,7 +2132,7 @@
 			"print_name"				"#weapon_upgrade_scope_mosin"
 			"print_desc"				"#weapon_upgrade_scope_mosin_desc"
 			"class_restricted"			"1"
-			"upgrade_cost"				"4"
+			"upgrade_cost"				"3"
 			"team_access"				"insurgent"
 			
 			"allowed_weapons"
@@ -2241,6 +2241,7 @@
 			"print_name"				"#weapon_upgrade_scope_m40a1"
 			"print_desc"				"#weapon_upgrade_scope_m40a1_desc"
 			"class_restricted"			"1"
+			"upgrade_cost"				"3"
 			"team_access"				"security"
 			
 			"allowed_weapons"
@@ -2770,7 +2771,7 @@
 		"barrel_silencer_ins1"
 		{
 			"import"					"base_silencer"
-			"upgrade_cost"				"4"
+			"upgrade_cost"				"3"
 			"class_restricted"			"1"
 			"length"					"12"
 			"team_access"				"insurgent"

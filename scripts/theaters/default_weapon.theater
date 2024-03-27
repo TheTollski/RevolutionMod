@@ -1343,7 +1343,7 @@
 			"import"				"rifle_base"
 			"weapon_class"				"rifle_controlled_fire"
 			"print_name"				"#weapon_m16"
-			"print_desc"				"#weapon_m16_desc"
+			"print_desc"				"Base DMG: 46-110 | Min DMG Range: 304m | RPM: 780 | Mag Cap: 30"
 			"view_model"				"models/weapons/v_m16a3.mdl"
 			"world_model"				"models/weapons/w_m16.mdl"
 			"rounds_per_minute"			"780"
@@ -1425,6 +1425,8 @@
 				"recoil_shot_reset_time"		"0.5"	// Time delay for resetting the shots fired counter for the above (default = 0.3)
 				"recoil_shot_max_shots"			"5"	// Max number of shots to account for for the additional rest (default = 5)
 				"recoil_punch_additive_factor"		"0.85"	// How much of the view punch from the previous shot(s) get added to any additional shot fired.
+				
+				"recoil_punch_additive_max" 		"2.5"
 			}
 			"ballistics"
 			{
@@ -2797,7 +2799,7 @@
 			"import"				"rifle_base"
 			"weapon_class"				"smg"
 			"print_name"				"#weapon_mp40"
-			"print_desc"				"#weapon_mp40_desc"
+			"print_desc"				"Base DMG: 32-60 | Min DMG Range: 406m | RPM: 500 | Mag Cap: 32"
 			"view_model"				"models/weapons/v_mp40.mdl"
 			"world_model"				"models/weapons/w_mp40.mdl"
 			"rounds_per_minute"			"500"
@@ -2852,6 +2854,8 @@
 				"recoil_shot_reset_time"		"0.5"	// Time delay for resetting the shots fired counter for the above (default = 0.3)
 				"recoil_shot_max_shots"			"5"	// Max number of shots to account for for the additional rest (default = 5)
 				"recoil_punch_additive_factor"		"0.82"	// How much of the view punch from the previous shot(s) get added to any additional shot fired.
+				
+				"recoil_punch_additive_max" 		"2.5"
 			}
 			"ballistics"
 			{
