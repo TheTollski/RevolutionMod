@@ -217,6 +217,7 @@
 				"angle"					"0 90 0"
 			}
 		}
+
 		"ballistic_base"
 		{
 			"IsBase"				"1"
@@ -338,6 +339,26 @@
 				"reticle"				"crosshairs/pistol"
 			}
 		}
+
+		"pistol_base_tp"
+		{
+			"IsBase"				"1"
+			"import"				"pistol_base"
+
+			"ballistics"
+			{
+				"SpreadIronSightFracBySpeed" // bullet spread multiplier by character speed when aiming down sights
+				{
+					"0"						"0.3"
+					"88"					"0.6"
+				}
+			}
+
+			"third_person"
+			{
+				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
+			}
+		}
 		
 		"weapon_grenade_base"
 		{
@@ -385,6 +406,26 @@
 				"reticle"				"crosshairs/rifle"
 			}
 		}
+
+		"rifle_base_tp"
+		{
+			"IsBase"				"1"
+			"import"				"rifle_base"
+
+			"ballistics"
+			{
+				"SpreadIronSightFracBySpeed" // bullet spread multiplier by character speed when aiming down sights
+				{
+					"0"						"0.3"
+					"88"					"0.6"
+				}
+			}
+
+			"third_person"
+			{
+				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
+			}
+		}
 		
 		"lmg_base"
 		{
@@ -395,6 +436,26 @@
 			{
 				"spread_frac_speed"			"1.75" // affects how far the bullets spread from the center of the crosshair
 				"spread_frac_spray"			"1.25" // affects how far the bullets spread from the center of the crosshair
+			}
+		}
+
+		"lmg_base_tp"
+		{
+			"IsBase"				"1"
+			"import"				"lmg_base"
+
+			"ballistics"
+			{
+				"SpreadIronSightFracBySpeed" // bullet spread multiplier by character speed when aiming down sights
+				{
+					"0"						"0.3"
+					"88"					"0.6"
+				}
+			}
+
+			"third_person"
+			{
+				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
 			}
 		}
 		
@@ -409,6 +470,26 @@
 				"spread_frac_spray"			"1.25" // affects how far the bullets spread from the center of the crosshair
 			}
 		}
+
+		"smg_base_tp"
+		{
+			"IsBase"				"1"
+			"import"				"smg_base"
+
+			"ballistics"
+			{
+				"SpreadIronSightFracBySpeed" // bullet spread multiplier by character speed when aiming down sights
+				{
+					"0"						"0.3"
+					"88"					"0.6"
+				}
+			}
+
+			"third_person"
+			{
+				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
+			}
+		}
 		
 		"shotgun_base"
 		{
@@ -418,6 +499,26 @@
 			"third_person"
 			{
 				"reticle"				"crosshairs/shotgun"
+			}
+		}
+
+		"shotgun_base_tp"
+		{
+			"IsBase"				"1"
+			"import"				"shotgun_base"
+
+			"ballistics"
+			{
+				"SpreadIronSightFracBySpeed" // bullet spread multiplier by character speed when aiming down sights
+				{
+					"0"						"0.3"
+					"88"					"0.6"
+				}
+			}
+
+			"third_person"
+			{
+				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
 			}
 		}
 		

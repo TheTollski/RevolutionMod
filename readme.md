@@ -1,3 +1,5 @@
-This is a mod for Insurgency to make it play similarly to the old Socom games.
+Revolution is a total conversion mod for Insurgency that gives the game a third-person perspective and attempts to provide a SOCOM-like experience.
 
-Created by Tollski. Many thanks to LupinWulf for creative input.
+To enable crosshairs on your server, your startup script must include: +sv_pure 0
+
+Created by Tollski.

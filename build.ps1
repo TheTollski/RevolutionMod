@@ -15,4 +15,4 @@ Copy-Item -Path ".\readme.md" -Destination ".\ThirdPersonMod_vx"
 
 Remove-Item -Path ".\ThirdPersonMod_vx" -Recurse
 
-Rename-Item -Path ".\thirdpersonmod_vx.vpk" -NewName "ThirdPersonMod_vx.vpk"
+Rename-Item -Path ".\thirdpersonmod_vx.vpk" -NewName "Revolution_vx_y.vpk"

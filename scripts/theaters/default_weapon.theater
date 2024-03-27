@@ -854,7 +854,7 @@
 		// ========================================
 		"weapon_m9"
 		{
-			"import"				"pistol_base"
+			"import"				"pistol_base_tp"
 			"weapon_class"				"pistol"
 			"print_name"				"#weapon_m9"
 			"print_desc"				"#weapon_m9_desc"
@@ -939,7 +939,7 @@
 		
 		"weapon_model10"
 		{
-			"import"					"pistol_base"
+			"import"					"pistol_base_tp"
 			"weapon_class"				"pistol"
 			"print_name"				"#weapon_model10"
 			"print_desc"				"#weapon_model10_desc"
@@ -1026,7 +1026,7 @@
 		
 		"weapon_m45"
 		{
-			"import"				"pistol_base"
+			"import"				"pistol_base_tp"
 			"weapon_class"				"pistol"
 			"print_name"				"#weapon_m45"
 			"print_desc"				"#weapon_m45_desc"
@@ -1132,7 +1132,7 @@
 		
 		"weapon_makarov"
 		{
-			"import"				"pistol_base"
+			"import"				"pistol_base_tp"
 			"weapon_class"				"pistol"
 			"print_name"				"#weapon_makarov"
 			"print_desc"				"#weapon_makarov_desc"
@@ -1240,7 +1240,7 @@
 		}
 		"weapon_m1911"
 		{
-			"import"				"pistol_base"
+			"import"				"pistol_base_tp"
 			"weapon_class"				"pistol"
 			"print_name"				"#weapon_m1911"
 			"print_desc"				"#weapon_m1911_desc"
@@ -1465,7 +1465,7 @@
 
 		"weapon_m16a4_tp"
 		{
-			"import"				"rifle_base"
+			"import"				"rifle_base_tp"
 			"weapon_class"				"rifle_controlled_fire"
 			"print_name"				"#weapon_m16"
 			"print_desc"				"#weapon_m16_desc"
@@ -1576,11 +1576,6 @@
 				"position"				"30 -3 3"
 			}
 			"team_access"				"security"
-			
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		"weapon_mk18"
@@ -1698,7 +1693,7 @@
 
 		"weapon_mk18_tp"
 		{
-			"import"					"rifle_base"
+			"import"					"rifle_base_tp"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_mk18"
 			"print_desc"				"#weapon_mk18_desc"
@@ -1807,11 +1802,6 @@
 				"position"				"24 0 3"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		"weapon_m4a1"
@@ -1939,7 +1929,7 @@
 
 		"weapon_m4a1_tp"
 		{
-			"import"				"rifle_base"
+			"import"				"rifle_base_tp"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_m4a1"
 			"print_desc"				"#weapon_m4a1_desc"
@@ -2058,11 +2048,6 @@
 				"position"				"24 0 3"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		"weapon_galil"
@@ -2179,7 +2164,7 @@
 
 		"weapon_galil_tp"
 		{
-			"import"					"rifle_base"
+			"import"					"rifle_base_tp"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_galil"
 			"print_desc"				"#weapon_galil_desc"
@@ -2287,11 +2272,6 @@
 				"position"				"24 0 3"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		"weapon_galil_sar"
@@ -2408,7 +2388,7 @@
 
 		"weapon_galil_sar_tp"
 		{
-			"import"					"rifle_base"
+			"import"					"rifle_base_tp"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_galil_sar"
 			"print_desc"				"#weapon_galil_sar_desc"
@@ -2516,11 +2496,6 @@
 				"position"				"24 0 3"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		"weapon_akm"
@@ -2632,7 +2607,7 @@
 
 		"weapon_akm_tp"
 		{
-			"import"				"rifle_base"
+			"import"				"rifle_base_tp"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_akm"
 			"print_desc"				"#weapon_akm_desc"
@@ -2735,11 +2710,6 @@
 				"position"				"23 -3 1"
 			}
 			"team_access"				"insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}		
 		
 		"weapon_ak74"
@@ -2850,7 +2820,7 @@
 
 		"weapon_ak74_tp"
 		{
-			"import"				"rifle_base"
+			"import"				"rifle_base_tp"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_ak74"
 			"print_desc"				"#weapon_ak74_desc"
@@ -2952,11 +2922,6 @@
 				"position"				"23 -3 1"
 			}
 			"team_access"				"insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		"weapon_fal"
@@ -3069,7 +3034,7 @@
 
 		"weapon_fal_tp"
 		{
-			"import"				"rifle_base"
+			"import"				"rifle_base_tp"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_fal"
 			"print_desc"				"#weapon_fal_desc"
@@ -3173,11 +3138,6 @@
 				"position"				"23 -3 1"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 
 		"weapon_l1a1"
@@ -3286,7 +3246,7 @@
 		
 		"weapon_l1a1_tp"
 		{
-			"import"				"rifle_base"
+			"import"				"rifle_base_tp"
 			"weapon_class"				"rifle_automatic_fire"
 			"print_name"				"#weapon_l1a1"
 			"print_desc"				"#weapon_l1a1_desc"
@@ -3386,11 +3346,6 @@
 				"position"				"23 -3 1"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		// ========================================
@@ -3482,7 +3437,7 @@
 
 		"weapon_mini14_tp"
 		{
-			"import"				"rifle_base"
+			"import"				"rifle_base_tp"
 			"weapon_class"				"rifle_controlled_fire"
 			"print_name"				"#weapon_mini14"
 			"print_desc"				"#weapon_mini14_desc"
@@ -3561,11 +3516,6 @@
 				"position"				"28 0 3"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		"weapon_m14"
@@ -3660,7 +3610,7 @@
 
 		"weapon_m14_tp"
 		{
-			"import"				"rifle_base"
+			"import"				"rifle_base_tp"
 			"weapon_class"				"rifle_controlled_fire"
 			"print_name"				"#weapon_m14"
 			"print_desc"				"#weapon_m14_desc"
@@ -3746,11 +3696,6 @@
 				"position"				"28 0 3"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		"weapon_m1a1"
@@ -3865,7 +3810,7 @@
 
 		"weapon_m1a1_tp"
 		{
-			"import"					"rifle_base"
+			"import"					"rifle_base_tp"
 			"weapon_class"				"rifle_controlled_fire"
 			"print_name"				"#weapon_m1a1"
 			"print_desc"				"#weapon_m1a1_desc"
@@ -3971,11 +3916,6 @@
 				"position"				"28 -2 2"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		"weapon_sks"
@@ -4063,7 +4003,7 @@
 
 		"weapon_sks_tp"
 		{
-			"import"				"rifle_base"
+			"import"				"rifle_base_tp"
 			"weapon_class"				"rifle_controlled_fire"
 			"print_name"				"#weapon_sks"
 			"print_desc"				"#weapon_sks_desc"
@@ -4142,11 +4082,6 @@
 				"position"				"28 -6 2.5"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		// ========================================
@@ -4243,7 +4178,7 @@
 
 		"weapon_mp5_tp"
 		{
-			"import"				"smg_base"
+			"import"				"smg_base_tp"
 			"weapon_class"				"smg"
 			"print_name"				"#weapon_mp5"
 			"print_desc"				"#weapon_mp5_desc"
@@ -4327,11 +4262,6 @@
 				"position"				"18 0 1"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		"weapon_mp40"
@@ -4425,7 +4355,7 @@
 
 		"weapon_mp40_tp"
 		{
-			"import"				"smg_base"
+			"import"				"smg_base_tp"
 			"weapon_class"				"smg"
 			"print_name"				"#weapon_mp40"
 			"print_desc"				"#weapon_mp40_desc"
@@ -4510,11 +4440,6 @@
 				"position"				"22 -4 2"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 
 		"weapon_sterling"
@@ -4622,7 +4547,7 @@
 
 		"weapon_sterling_tp"
 		{
-			"import"					"smg_base"
+			"import"					"smg_base_tp"
 			"weapon_class"				"smg"
 			"view_model"				"models/weapons/v_sterling.mdl"
 			"world_model"				"models/weapons/w_sterling.mdl"
@@ -4721,11 +4646,6 @@
 				"position"				"22 -4 2"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		"weapon_ump45"
@@ -4816,7 +4736,7 @@
 
 		"weapon_ump45_tp"
 		{
-			"import"				"smg_base"
+			"import"				"smg_base_tp"
 			"weapon_class"				"smg"
 			"print_name"				"#weapon_ump45"
 			"print_desc"				"#weapon_ump45_desc"
@@ -4898,11 +4818,6 @@
 				"position"				"20 0 1.5"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		"weapon_aks74u"
@@ -5011,7 +4926,7 @@
 
 		"weapon_aks74u_tp"
 		{
-			"import"				"rifle_base"
+			"import"				"rifle_base_tp"
 			"weapon_class"				"smg"
 			"print_name"				"#weapon_aks74u"
 			"print_desc"				"#weapon_aks74u_desc"
@@ -5111,11 +5026,6 @@
 				"position"				"20 -2 1"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		// ========================================
@@ -5213,7 +5123,7 @@
 
 		"weapon_m590_tp"
 		{
-			"import"				"shotgun_base"
+			"import"				"shotgun_base_tp"
 			"weapon_class"				"shotgun"
 			"weapon_cost"				"1"
 			"print_name"				"#weapon_m590"
@@ -5298,11 +5208,6 @@
 				"position"				"32 0 3"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		"weapon_toz"
@@ -5397,7 +5302,7 @@
 
 		"weapon_toz_tp"
 		{
-			"import"				"shotgun_base"
+			"import"				"shotgun_base_tp"
 			"weapon_class"				"shotgun"
 			"weapon_cost"				"1"
 			"print_name"				"#weapon_toz"
@@ -5483,11 +5388,6 @@
 				"position"				"20 -2 2"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		// ========================================
@@ -5607,7 +5507,7 @@
 
 		"weapon_m249_tp"
 		{
-			"import"				"lmg_base"
+			"import"				"lmg_base_tp"
 			"weapon_class"				"lmg"
 			"weapon_cost"				"4"
 			"print_name"				"#weapon_m249"
@@ -5714,11 +5614,6 @@
 				"in_time"				"0.4"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		"weapon_rpk"
@@ -5834,7 +5729,7 @@
 
 		"weapon_rpk_tp"
 		{
-			"import"				"lmg_base"
+			"import"				"lmg_base_tp"
 			"view_model"				"models/weapons/v_rpk.mdl"
 			"world_model"				"models/weapons/w_rpk.mdl"
 			"weapon_class"				"lmg"
@@ -5941,11 +5836,6 @@
 				"position"				"25 -15 4"
 			}
 			"team_access"				"security, insurgent"
-
-			"third_person"
-			{
-				"scope_first_person"		"0" // determines if aiming down the sights will change the camera to 1st person
-			}
 		}
 		
 		// ========================================
@@ -5957,7 +5847,7 @@
 			"import"				"sniper_base"
 			"weapon_class"				"sniper_rifle"
 			"weapon_cost"				"1"
-			"print_name"				"#weapon_m40a1"
+			"print_name"				"#weapon_m40a1_fp"
 			"print_desc"				"#weapon_m40a1_desc"
 			"view_model"				"models/weapons/v_m40a1.mdl"
 			"world_model"				"models/weapons/w_m40.mdl"
@@ -6052,7 +5942,7 @@
 			"import"				"sniper_base"
 			"weapon_class"				"sniper_rifle"
 			"weapon_cost"				"1"
-			"print_name"				"#weapon_mosin"
+			"print_name"				"#weapon_mosin_fp"
 			"print_desc"				"#weapon_mosin_desc"
 			"view_model"				"models/weapons/v_mosin.mdl"
 			"world_model"				"models/weapons/w_mosin.mdl"
@@ -6131,7 +6021,7 @@
 			"import"				"sniper_base"
 			"weapon_class"				"rifle_controlled_fire"
 			"weapon_cost"				"4"
-			"print_name"				"#weapon_m82a1"
+			"print_name"				"#weapon_m82a1_fp"
 			"print_desc"				"#weapon_m82a1_desc"
 			"view_model"				"models/weapons/v_barrett.mdl"
 			"world_model"				"models/weapons/w_barrett.mdl"
