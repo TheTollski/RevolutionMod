@@ -119,9 +119,9 @@
 			"brass_model"				"models/weapons/shells/9x19.mdl"
 			"Damage"
 			{
-				"1"						"60"
-				"100"					"60"
-				"5000"					"32"
+				"1"						"50"
+				"100"					"50"
+				"5000"					"35"
 			}
 			"PenetrationPower"
 			{
@@ -131,12 +131,12 @@
 			"DamageHitgroups"
 			{
 				"HITGROUP_HEAD"				"1.00"
-				"HITGROUP_CHEST"			"0.60"
-				"HITGROUP_STOMACH"			"0.60"
-				"HITGROUP_LEFTARM"			"1.30"
-				"HITGROUP_RIGHTARM"			"1.30"
-				"HITGROUP_LEFTLEG"			"1.30"
-				"HITGROUP_RIGHTLEG"			"1.30"
+				"HITGROUP_CHEST"			"1.00"
+				"HITGROUP_STOMACH"			"1.00"
+				"HITGROUP_LEFTARM"			"1.00"
+				"HITGROUP_RIGHTARM"			"1.00"
+				"HITGROUP_LEFTLEG"			"1.00"
+				"HITGROUP_RIGHTLEG"			"1.00"
 			}
 		}
 		"9x19_hp"
@@ -195,9 +195,9 @@
 
 			"Damage"
 			{
-				"1"						"70"
-				"100"					"70"
-				"5000"					"24"
+				"1"						"60"
+				"100"					"60"
+				"5000"					"30"
 			}
 			"PenetrationPower"
 			{
@@ -258,8 +258,8 @@
 			"magsize"					"25"
 			"Damage"
 			{
-				"10"					"76"
-				"8000"					"32"
+				"10"					"60"
+				"8000"					"45"
 			}
 			"PenetrationPower"
 			{
@@ -269,12 +269,12 @@
 			"DamageHitgroups"
 			{
 				"HITGROUP_HEAD"				"1.00"
-				"HITGROUP_CHEST"			"0.60"
-				"HITGROUP_STOMACH"			"0.60"
-				"HITGROUP_LEFTARM"			"1.50"
-				"HITGROUP_RIGHTARM"			"1.50"
-				"HITGROUP_LEFTLEG"			"1.50"
-				"HITGROUP_RIGHTLEG"			"1.50"
+				"HITGROUP_CHEST"			"1.00"
+				"HITGROUP_STOMACH"			"1.00"
+				"HITGROUP_LEFTARM"			"1.00"
+				"HITGROUP_RIGHTARM"			"1.00"
+				"HITGROUP_LEFTLEG"			"1.00"
+				"HITGROUP_RIGHTLEG"			"1.00"
 			}
 		}
 		"45acp_pistol"	// FMJ (US Army Ball) 230gr 250m/s  477J
@@ -364,8 +364,8 @@
 			"brass_model"				"models/weapons/shells/545x39.mdl"
 			"Damage"
 			{
-				"10"					"82"
-				"8000"					"50"
+				"10"					"60"
+				"8000"					"40"
 			}
 			"PenetrationPower"
 			{
@@ -426,9 +426,9 @@
 			"brass_model"				"models/weapons/shells/556x45.mdl"
 			"Damage"
 			{
-				"10"					"110"	// bullets fragment at under 60m dealing more damage. (truly more like 150m but compromise for gameplay)
-				"2700"					"80"
-				"12000"					"46"
+				"10"					"65"	// bullets fragment at under 60m dealing more damage. (truly more like 150m but compromise for gameplay)
+				"2700"					"55"
+				"12000"					"40"
 			}
 			"PenetrationPower"	// Maybe offer or imply Mk318 rounds which are like combined HP and AP at high cost?
 			{
@@ -487,9 +487,9 @@
 			"import"				"556x45"
 			"Damage"
 			{
-				"10"					"110"	// bullets fragment at under 20m dealing more damage. (truly more like 50m but compromise for gameplay)
-				"450"					"80"
-				"10000"					"46"
+				"10"					"65"	// bullets fragment at under 20m dealing more damage. (truly more like 50m but compromise for gameplay)
+				"450"					"55"
+				"10000"					"40"
 			}
 		}
 		"556x45_car_hp"
@@ -524,8 +524,8 @@
 			"brass_model"				"models/weapons/shells/762x39.mdl"
 			"Damage"
 			{
-				"10"					"100"
-				"12000"					"80"
+				"10"					"65"
+				"12000"					"50"
 			}
 			"PenetrationPower"
 			{
@@ -642,8 +642,8 @@
 			"brass_model"				"models/weapons/shells/762x51.mdl"
 			"Damage"
 			{
-				"10"					"160"
-				"20000"					"100"
+				"10"					"110"
+				"20000"					"70"
 			}
 			"PenetrationPower"
 			{
@@ -722,9 +722,9 @@
 			"brass_sound"				"BOUNCE_SHOTSHELL"
 			"Damage"
 			{
-				"800"					"27" // 324 total possible
-				"2000"					"14" // 162 (rounded up)
-				"7000"					"4" // 54 (rounded down)
+				"800"					"23" // 276 total possible
+				"2000"					"12" // 144
+				"7000"					"3" // 36
 			}
 			"PenetrationPower"
 			{
@@ -747,8 +747,8 @@
 			"brass_model"				"models/weapons/shells/12guage.mdl"
 			"Damage"
 			{
-				"800"					"288"
-				"4500"					"144"
+				"800"					"180"
+				"4500"					"90"
 				"9000"					"40"
 			}
 			"PenetrationPower"
@@ -938,8 +938,8 @@
 
 			"Damage"
 			{
-				"10"					"60"
-				"16000"					"32"
+				"10"					"50"
+				"16000"					"35"
 			}
 		}
 		

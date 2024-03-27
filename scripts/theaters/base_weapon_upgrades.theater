@@ -28,7 +28,7 @@
 			"upgrade_slot"				"ammo"
 			"upgrade_cost"				"2"
 			"print_name"				"#weapon_upgrade_slugs"
-			"print_desc"				"Base DMG: 288 (40m), 144 (114m), 40 (228m)"
+			"print_desc"				"#weapon_upgrade_slugs_desc"
 			"ammo_type_override"			"slugs"
 			"spread_frac"				"0.02"
 			
