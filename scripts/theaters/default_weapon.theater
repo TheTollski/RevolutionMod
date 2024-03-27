@@ -665,6 +665,11 @@
 			}
 
 			"team_access"				"security, insurgent"
+			
+			"third_person"
+			{
+				"reticle"				"crosshairs/smoke_grenade"
+			}
 		}
 		"weapon_m84"
 		{
@@ -704,6 +709,11 @@
 			}
 
 			"team_access"				"security, insurgent"
+			
+			"third_person"
+			{
+				"reticle"				"crosshairs/flash_grenade"
+			}
 		}
 		
 		// ========================================

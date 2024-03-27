@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"crosshairs/lethal_grenade"
+	"$translucent"	"1"
+
+	"$reticleCenter"			"0 0 200 200"
+	"$reticleTeammateCenter"	"200 0 200 200"
+	"$reticleEnemyCenter"		"0 200 200 200"
+	"$reticleObstruct"			"502 502 10 10"
+}

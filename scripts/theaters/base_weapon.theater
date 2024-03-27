@@ -320,6 +320,11 @@
 				"freeaim_distance"			"0"
 				"freeaim_screenratio"			"0"	// if this is 0 and freeaim_distance is set, that will just mean sway gets applied
 			}
+			
+			"third_person"
+			{
+				"reticle"				"crosshairs/lethal_grenade"
+			}
 		}
 		
 		"rifle_base"
