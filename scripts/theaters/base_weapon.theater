@@ -258,12 +258,12 @@
 			{
 				"recoil_frac_aim"			"0.5" // seems to be a multiplier to a weapon's recoil punch value that only applies to the crosshair (not the camera)
 				
-				"recoil_frac_cam_pitch"		"0.2" // affects how far the camera rises after each shot
-				"recoil_frac_cam_yaw"		"0.3" // affects how far the camera moves left to right after each shot
+				"recoil_frac_cam_pitch"		"0.175" // affects how far the camera rises after each shot
+				"recoil_frac_cam_yaw"		"0.25" // affects how far the camera moves left to right after each shot
 				
 				"scope_first_person"		"1" // determines if aiming down the sights will change the camera to 1st person
 				
-				"spread_frac_speed"			"2.5" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_spray.
+				"spread_frac_speed"			"2.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_spray.
 				"spread_frac_spray"			"0.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_speed.
 			}
 		}
@@ -356,7 +356,7 @@
 			{
 				"reticle"				"crosshairs/sniper"
 				
-				"spread_frac_speed"			"10.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_spray.
+				"spread_frac_speed"			"20.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_spray.
 				"spread_frac_spray"			"0.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_speed.
 			}
 		}
