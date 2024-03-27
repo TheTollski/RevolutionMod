@@ -82,7 +82,7 @@
 			"stamina_jump_take"			"15"
 			"stamina_dmg_take"			"0.25"
 			
-			"land_viewpunch_minvel"			"150"
+			"land_viewpunch_minvel"			"1500"
 			"land_viewpunch_basepitch"		"0.75"
 			"land_viewpunch_jumppitch"		"0.05"
 			"land_viewpunch_landpitch"		"0.01"
