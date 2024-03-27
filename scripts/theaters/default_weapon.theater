@@ -3844,9 +3844,9 @@
 			"ammo_clip"
 			{
 				"ammo_type"				"50bmg_m82a1a"
-				"clip_max"				"7"
+				"clip_max"				"4"
 				"clip_max_rounds"			"10"
-				"clip_default"				"2"
+				"clip_default"				"1"
 			}
 			"attachments"
 			{
