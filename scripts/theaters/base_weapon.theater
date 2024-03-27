@@ -252,7 +252,14 @@
 			
 			"third_person"
 			{
-				"scope_first_person"		"1"
+				"recoil_frac_aim"			"1" // seems to be a multiplier to a weapon's recoil punch value that only applies to the crosshair (not the camera)
+				"recoil_frac_cam_pitch"		"0.1" // affects how far the camera rises after each shot
+				"recoil_frac_cam_yaw"		"0.15" // affects how far the camera moves left to right after each shot
+				
+				"scope_first_person"		"1" // determines if aiming down the sights will change the camera to 1st person
+				
+				"spread_frac_speed"			"1.0" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_spray
+				"spread_frac_spray"			"0.5" // affects how far the bullets spread from the crosshair, not sure how it's different from spread_frac_speed
 			}
 		}
 		
