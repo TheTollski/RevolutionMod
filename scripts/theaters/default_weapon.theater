@@ -3780,6 +3780,84 @@
 			}
 			"team_access"				"security, insurgent"
 		}
+		
+		"weapon_m82a1"
+		{
+			"import"				"sniper_base"
+			"weapon_class"				"rifle_controlled_fire"
+			"weapon_cost"				"4"
+			"print_name"				"#weapon_m82a1"
+			"print_desc"				"#weapon_m82a1_desc"
+			"view_model"				"models/weapons/v_barrett.mdl"
+			"world_model"				"models/weapons/w_barrett.mdl"
+			"rounds_per_minute"				"60"
+			"weapon_slot"				"primary"
+			"act_table"					"rifle_m14"
+			"weapon_abilities"			"ironsight"
+			"weapon_weight"				"500"
+			"barrel_length"				"40"
+			
+			"fov"
+			{
+				"fov_plr_ironsight"			"-10"
+				"fov_plr_focus"				"-12"
+				"fov_wpn_default"			"56"
+				"fov_wpn_ironsight"			"60"
+				"fov_wpn_focus"				"58"
+			}
+			"sounds"
+			{
+				"shot_single"				"Weapon_M82A1.Single"
+				"shot_single_local"			"Weapon_M82A1.SingleLocal"
+				"shot_silent"				"Weapon_M82A1.SingleSilenced"
+				"shot_silent_local"			"Weapon_M82A1.SingleSilencedLocal"
+				"empty"					"Weapon_M82A1.Empty"
+				"clipin"				"Weapon_M82A1.Clipin"
+				"clipout"				"Weapon_M82A1.Clipout"
+				"boltback"				"Weapon_M82A1.Boltback"
+				"boltforward"				"Weapon_M82A1.Boltforward"
+				"hit"					"Weapon_Mosin.Hit"
+			}
+			"particles"
+			{
+				"particle_muzzleflash_1st"		"muzzleflash_m14_1p"
+				"particle_muzzleflash_3rd"		"muzzleflash_m14_3rd"
+				"particle_tracer"			"weapon_tracers_green"
+			}
+			"recoil"
+			{
+				"recoil_lateral_range"			"-4 6"
+				"recoil_vertical_range"			"6.5 8"
+				"recoil_aim_punch"			"0.8 0.95"
+				"recoil_rest_rate"			"12"
+				"recoil_rest_delay"			"0.05"
+				"recoil_roll_range"			"-5 -5"
+				"recoil_roll_rest_rate"			"70"
+			}
+			"ballistics"
+			{
+				"spread"				"0.08 0.08 0.08"
+				"FireModes"				"semi"
+				"bulletcount"				"1"
+				"maxrange"				"40000"
+			}
+			"ammo_clip"
+			{
+				"ammo_type"				"50bmg_m82a1a"
+				"clip_max"				"7"
+				"clip_max_rounds"			"10"
+				"clip_default"				"2"
+			}
+			"attachments"
+			{
+				"attachment_addon"			"primary2"
+			}
+			"kitui_offset"
+			{
+				"position"				"38 -4 2.5"
+			}
+			"team_access"				"security, insurgent"
+		}
 	}
 	
 	"explosives"

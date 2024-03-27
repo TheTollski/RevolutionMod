@@ -2247,6 +2247,7 @@
 			"allowed_weapons"
 			{
 				"weapon"				"weapon_m40a1"
+				"weapon"				"weapon_m82a1"
 			}
 			"viewmodel_attachments"
 			{
@@ -2276,6 +2277,7 @@
 					{
 						"weapon"				"weapon_m14"
 						"weapon"				"weapon_m16a4"
+						"weapon"				"weapon_m82a1"
 					}
 				}
 			}
@@ -2304,6 +2306,13 @@
 					"fov_wpn_scope"				"10"
 					"fov_wpn_ironsight"			"66"
 					"fov_wpn_focus"				"68"
+				}
+				
+				"weapon_m82a1"
+				{
+					"fov_wpn_scope"				"10"
+					"fov_wpn_ironsight"			"30"
+					"fov_wpn_focus"				"50"
 				}
 			}
 			"world_attachments"

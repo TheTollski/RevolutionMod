@@ -22,6 +22,10 @@
 			"sounds"			"scripts/ins_sounds_responses_security.txt"
 			"sounds"			"scripts/ins_sounds_responses_insurgent.txt"
 			"sounds"			"scripts/ins_sounds_hq.txt"
+			
+			// custom stuff
+			"sounds"			"scripts/custom_sounds.txt"
+			"localize"			"resource/custom_localizations.txt"
 		}
 		
 		// use this to register any acts not registered by the game DLL

@@ -48,6 +48,8 @@
 				"weapon"				"weapon_mp5"
 				//"weapon"				"weapon_ump45"
 				
+				"weapon"				"weapon_m82a1"
+				
 				"weapon_upgrade"		"barrel_silencer_sec1"
 				"weapon_upgrade"		"barrel_silencer_sec2"
 				"weapon_upgrade"		"barrel_silencer_pistol"
@@ -113,11 +115,14 @@
 				//"weapon"				"weapon_sterling"
 				"weapon"				"weapon_toz"
 				
+				"weapon"				"weapon_m82a1"
+				
 				"weapon_upgrade"		"barrel_silencer_ins1"
 				"weapon_upgrade"		"barrel_silencer_integrated"
 				"weapon_upgrade"		"barrel_silencer_pistol"
 				"weapon_upgrade"		"magazine_drum_75rd"
 				"weapon_upgrade"		"optic_scope_7x"
+				"weapon_upgrade"		"optic_scope_mk4"
 				"weapon_upgrade"		"underbarrel_bipod"
 				"weapon_upgrade"		"underbarrel_gp25_he"
 				"weapon_upgrade"		"underbarrel_gp25_smoke"
