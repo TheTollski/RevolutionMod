@@ -2903,7 +2903,7 @@
 
 		"weapon_sterling"
 		{
-			"import"					"rifle_base"
+			"import"					"smg_base"
 			"weapon_class"				"smg"
 			"view_model"				"models/weapons/v_sterling.mdl"
 			"world_model"				"models/weapons/w_sterling.mdl"
@@ -3006,7 +3006,7 @@
 		
 		"weapon_ump45"
 		{
-			"import"				"rifle_base"
+			"import"				"smg_base"
 			"weapon_class"				"smg"
 			"print_name"				"#weapon_ump45"
 			"print_desc"				"#weapon_ump45_desc"
