@@ -5097,7 +5097,7 @@
 			}
 			"ballistics"
 			{
-				"spread"				"2.0 2.0 0.0"
+				"spread"				"1.15 1.15 0.0"
 				"FireModes"				"pump"
 				"maxrange"				"3000"
 				"singleReload"				"1"
@@ -5186,7 +5186,7 @@
 			}
 			"ballistics"
 			{
-				"spread"				"2.0 2.0 0.0"
+				"spread"				"1.15 1.15 0.0"
 				"FireModes"				"pump"
 				"maxrange"				"3000"
 				"singleReload"				"1"
@@ -5276,7 +5276,7 @@
 			}
 			"ballistics"
 			{
-				"spread"				"1.84 1.84 0.0"
+				"spread"				"1.0 1.0 0.0"
 				"FireModes"				"pump"
 				"maxrange"				"5000"
 				"singleReload"				"1"
@@ -5366,7 +5366,7 @@
 			}
 			"ballistics"
 			{
-				"spread"				"1.84 1.84 0.0"
+				"spread"				"1.0 1.0 0.0"
 				"FireModes"				"pump"
 				"maxrange"				"5000"
 				"singleReload"				"1"
@@ -6253,7 +6253,7 @@
 			"Elasticity"				"0.0"
 			
 			"Deafen"				"0"
-			"AreaDamageTime"			"24"
+			"AreaDamageTime"			"10"
 			"AreaDamageFrequency"			"0.44"
 			"AreaDamageMinRadius"			"240"
 			"AreaDamageMaxRadius"			"260"
